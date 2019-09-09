@@ -41,7 +41,7 @@ using namespace std;
 int main(int argc, const char *argv[])
 {
 	//execute with paramers:
-	//- full path to the directory that contains FITS files for processing
+	//- full path to the directory that contains data files for processing
 
 	//get frame directory path
 	char filename_in[500];
